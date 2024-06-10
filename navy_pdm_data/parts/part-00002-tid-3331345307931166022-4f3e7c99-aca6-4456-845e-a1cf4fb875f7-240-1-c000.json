@@ -1,0 +1,11 @@
+{"NSN":"15659385","height":540,"production_time":4,"sensors":["sensor_A","sensor_C"],"stock_available":6,"stock_location":"FLC Pearl Harbor","type":"controller card #1 - ECU","weight":19426,"width":1839}
+{"NSN":"15659385","height":1108,"production_time":2,"sensors":["sensor_E"],"stock_available":1,"stock_location":"FLC Puget Sound","type":"controller card #1 - ECU","weight":11810,"width":1022}
+{"NSN":"15659385","height":1302,"production_time":1,"sensors":["sensor_E"],"stock_available":3,"stock_location":"FLC San Diego","type":"controller card #1 - ECU","weight":11086,"width":1096}
+{"NSN":"77840806","height":655,"production_time":2,"sensors":["sensor_E"],"stock_available":3,"stock_location":"FLC Jacksonville","type":"controller card #2 - ECU","weight":3938,"width":1598}
+{"NSN":"77840806","height":972,"production_time":1,"sensors":["sensor_A"],"stock_available":1,"stock_location":"FLC Norfolk","type":"controller card #2 - ECU","weight":2137,"width":781}
+{"NSN":"77840806","height":1773,"production_time":4,"sensors":["sensor_B"],"stock_available":10,"stock_location":"FLC Pearl Harbor","type":"controller card #2 - ECU","weight":18904,"width":192}
+{"NSN":"77840806","height":354,"production_time":4,"sensors":["sensor_A"],"stock_available":9,"stock_location":"FLC Puget Sound","type":"controller card #2 - ECU","weight":6277,"width":154}
+{"NSN":"77840806","height":287,"production_time":0,"sensors":["sensor_B"],"stock_available":1,"stock_location":"FLC San Diego","type":"controller card #2 - ECU","weight":12228,"width":901}
+{"NSN":"16097537","height":478,"production_time":1,"sensors":["sensor_B"],"stock_available":7,"stock_location":"FLC Jacksonville","type":"Pump - Fuel","weight":4159,"width":498}
+{"NSN":"16097537","height":146,"production_time":4,"sensors":["sensor_B"],"stock_available":6,"stock_location":"FLC Norfolk","type":"Pump - Fuel","weight":17933,"width":1491}
+{"NSN":"16097537","height":632,"production_time":0,"sensors":["sensor_A","sensor_E"],"stock_available":3,"stock_location":"FLC Pearl Harbor","type":"Pump - Fuel","weight":2393,"width":1811}

@@ -1,0 +1,11 @@
+{"NSN":"66048763","height":888,"production_time":2,"sensors":["sensor_F"],"stock_available":0,"stock_location":"FLC Jacksonville","type":"Vane - Turbine","weight":13881,"width":1829}
+{"NSN":"66048763","height":1095,"production_time":3,"sensors":["sensor_F"],"stock_available":4,"stock_location":"FLC Norfolk","type":"Vane - Turbine","weight":13368,"width":1147}
+{"NSN":"66048763","height":1294,"production_time":1,"sensors":["sensor_F"],"stock_available":8,"stock_location":"FLC Pearl Harbor","type":"Vane - Turbine","weight":7257,"width":833}
+{"NSN":"66048763","height":386,"production_time":2,"sensors":["sensor_F"],"stock_available":9,"stock_location":"FLC Puget Sound","type":"Vane - Turbine","weight":3207,"width":677}
+{"NSN":"66048763","height":1190,"production_time":2,"sensors":["sensor_F"],"stock_available":2,"stock_location":"FLC San Diego","type":"Vane - Turbine","weight":19823,"width":1963}
+{"NSN":"47593824","height":1594,"production_time":2,"sensors":["sensor_F"],"stock_available":10,"stock_location":"FLC Jacksonville","type":"Blade - Turbine","weight":2516,"width":302}
+{"NSN":"47593824","height":1246,"production_time":3,"sensors":["sensor_F"],"stock_available":5,"stock_location":"FLC Norfolk","type":"Blade - Turbine","weight":3399,"width":1066}
+{"NSN":"47593824","height":1351,"production_time":3,"sensors":["sensor_F"],"stock_available":8,"stock_location":"FLC Pearl Harbor","type":"Blade - Turbine","weight":6800,"width":747}
+{"NSN":"47593824","height":1872,"production_time":0,"sensors":["sensor_F"],"stock_available":4,"stock_location":"FLC Puget Sound","type":"Blade - Turbine","weight":17183,"width":1006}
+{"NSN":"47593824","height":1981,"production_time":0,"sensors":["sensor_F"],"stock_available":0,"stock_location":"FLC San Diego","type":"Blade - Turbine","weight":18079,"width":1748}
+{"NSN":"42194897","height":1820,"production_time":5,"sensors":["sensor_E"],"stock_available":10,"stock_location":"FLC Jacksonville","type":"Fuel Nozzle","weight":13168,"width":1573}

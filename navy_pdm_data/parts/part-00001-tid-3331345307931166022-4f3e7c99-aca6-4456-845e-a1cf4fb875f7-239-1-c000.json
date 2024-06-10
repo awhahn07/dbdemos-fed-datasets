@@ -1,0 +1,11 @@
+{"NSN":"42194897","height":1110,"production_time":5,"sensors":["sensor_E","sensor_B"],"stock_available":3,"stock_location":"FLC Norfolk","type":"Fuel Nozzle","weight":11016,"width":1353}
+{"NSN":"42194897","height":1882,"production_time":4,"sensors":["sensor_A"],"stock_available":3,"stock_location":"FLC Pearl Harbor","type":"Fuel Nozzle","weight":2163,"width":1541}
+{"NSN":"42194897","height":1745,"production_time":3,"sensors":["sensor_A"],"stock_available":8,"stock_location":"FLC Puget Sound","type":"Fuel Nozzle","weight":4769,"width":588}
+{"NSN":"42194897","height":755,"production_time":0,"sensors":["sensor_A","sensor_D"],"stock_available":7,"stock_location":"FLC San Diego","type":"Fuel Nozzle","weight":16744,"width":264}
+{"NSN":"24115780","height":696,"production_time":2,"sensors":["sensor_A"],"stock_available":8,"stock_location":"FLC Jacksonville","type":"Seal","weight":4189,"width":1228}
+{"NSN":"24115780","height":1335,"production_time":2,"sensors":["sensor_A","sensor_C"],"stock_available":9,"stock_location":"FLC Norfolk","type":"Seal","weight":18031,"width":1737}
+{"NSN":"24115780","height":1321,"production_time":4,"sensors":["sensor_C"],"stock_available":5,"stock_location":"FLC Pearl Harbor","type":"Seal","weight":12712,"width":287}
+{"NSN":"24115780","height":476,"production_time":0,"sensors":["sensor_B","sensor_E"],"stock_available":2,"stock_location":"FLC Puget Sound","type":"Seal","weight":6305,"width":694}
+{"NSN":"24115780","height":241,"production_time":1,"sensors":["sensor_D"],"stock_available":10,"stock_location":"FLC San Diego","type":"Seal","weight":3043,"width":1075}
+{"NSN":"15659385","height":179,"production_time":5,"sensors":["sensor_C","sensor_E"],"stock_available":8,"stock_location":"FLC Jacksonville","type":"controller card #1 - ECU","weight":2729,"width":1991}
+{"NSN":"15659385","height":1544,"production_time":4,"sensors":["sensor_B"],"stock_available":4,"stock_location":"FLC Norfolk","type":"controller card #1 - ECU","weight":17289,"width":1815}
