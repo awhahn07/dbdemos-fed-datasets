@@ -1,0 +1,2 @@
+{"NSN":"42194897","type":"Fuel Nozzle","width":588,"height":1745,"weight":4769,"stock_available":8,"stock_location":"FLC Puget Sound","production_time":3,"sensors":["sensor_A"],"stock_location_id":"supply_4","lat":47.6,"long":-122.4}
+{"NSN":"42194897","type":"Fuel Nozzle","width":264,"height":755,"weight":16744,"stock_available":7,"stock_location":"FLC San Diego","production_time":0,"sensors":["sensor_B","sensor_E"],"stock_location_id":"supply_5","lat":32.684722,"long":-117.13}

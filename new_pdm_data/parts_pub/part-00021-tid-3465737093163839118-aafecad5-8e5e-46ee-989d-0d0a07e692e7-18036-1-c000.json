@@ -1,0 +1,2 @@
+{"NSN":"59179535","type":"Filter - Fuel / Oil","width":314,"height":1321,"weight":16087,"stock_available":2,"stock_location":"EX 5","production_time":4,"sensors":["sensor_D","sensor_E"],"stock_location_id":"supply_5","lat":32.684722,"long":-117.13}
+{"NSN":"30413528","type":"Valve - Fuel / Oil","width":1407,"height":1492,"weight":13968,"stock_available":8,"stock_location":"EX 1","production_time":3,"sensors":["sensor_C","sensor_E"],"stock_location_id":"supply_1","lat":30.39349,"long":-81.410574}

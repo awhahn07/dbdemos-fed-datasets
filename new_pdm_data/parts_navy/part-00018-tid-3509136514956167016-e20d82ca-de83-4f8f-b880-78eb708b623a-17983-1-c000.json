@@ -1,0 +1,2 @@
+{"NSN":"16097537","type":"Pump - Fuel","width":817,"height":993,"weight":6008,"stock_available":0,"stock_location":"FLC Puget Sound","production_time":4,"sensors":["sensor_A","sensor_C"],"stock_location_id":"supply_4","lat":47.6,"long":-122.4}
+{"NSN":"16097537","type":"Pump - Fuel","width":180,"height":1321,"weight":3406,"stock_available":6,"stock_location":"FLC San Diego","production_time":1,"sensors":["sensor_A","sensor_D"],"stock_location_id":"supply_5","lat":32.684722,"long":-117.13}

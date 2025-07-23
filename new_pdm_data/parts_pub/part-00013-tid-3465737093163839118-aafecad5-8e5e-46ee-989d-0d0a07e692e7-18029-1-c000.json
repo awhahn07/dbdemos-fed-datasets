@@ -1,0 +1,2 @@
+{"NSN":"11220183","type":"controller card #1 - ECU","width":1079,"height":1596,"weight":7954,"stock_available":0,"stock_location":"EX 5","production_time":2,"sensors":["sensor_C"],"stock_location_id":"supply_5","lat":32.684722,"long":-117.13}
+{"NSN":"68483395","type":"controller card #2 - ECU","width":1855,"height":1171,"weight":2422,"stock_available":4,"stock_location":"EX 1","production_time":3,"sensors":["sensor_B","sensor_A"],"stock_location_id":"supply_1","lat":30.39349,"long":-81.410574}

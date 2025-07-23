@@ -1,0 +1,2 @@
+{"NSN":"51393328","type":"Filter - Fuel / Oil","width":340,"height":1322,"weight":14593,"stock_available":10,"stock_location":"FLC Pearl Harbor","production_time":1,"sensors":["sensor_D"],"stock_location_id":"supply_3","lat":21.3647,"long":-157.9498}
+{"NSN":"51393328","type":"Filter - Fuel / Oil","width":1065,"height":1495,"weight":13531,"stock_available":9,"stock_location":"FLC Puget Sound","production_time":4,"sensors":["sensor_A","sensor_B"],"stock_location_id":"supply_4","lat":47.6,"long":-122.4}

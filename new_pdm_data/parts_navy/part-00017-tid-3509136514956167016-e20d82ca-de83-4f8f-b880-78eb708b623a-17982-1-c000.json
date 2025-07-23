@@ -1,0 +1,2 @@
+{"NSN":"16097537","type":"Pump - Fuel","width":1491,"height":146,"weight":17933,"stock_available":6,"stock_location":"FLC Norfolk","production_time":4,"sensors":["sensor_A"],"stock_location_id":"supply_2","lat":36.945,"long":-76.313056}
+{"NSN":"16097537","type":"Pump - Fuel","width":1811,"height":632,"weight":2393,"stock_available":3,"stock_location":"FLC Pearl Harbor","production_time":0,"sensors":["sensor_A","sensor_D"],"stock_location_id":"supply_3","lat":21.3647,"long":-157.9498}

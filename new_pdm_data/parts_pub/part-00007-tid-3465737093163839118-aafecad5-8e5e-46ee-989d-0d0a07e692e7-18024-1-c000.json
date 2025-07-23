@@ -1,0 +1,2 @@
+{"NSN":"19659343","type":"Fuel Nozzle","width":305,"height":1074,"weight":13098,"stock_available":10,"stock_location":"EX 4","production_time":0,"sensors":["sensor_A"],"stock_location_id":"supply_4","lat":47.6,"long":-122.4}
+{"NSN":"19659343","type":"Fuel Nozzle","width":662,"height":1971,"weight":14943,"stock_available":1,"stock_location":"EX 5","production_time":2,"sensors":["sensor_C"],"stock_location_id":"supply_5","lat":32.684722,"long":-117.13}

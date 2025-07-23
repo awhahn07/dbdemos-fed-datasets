@@ -1,0 +1,2 @@
+{"NSN":"69477515","type":"Pump - Fuel","width":1635,"height":552,"weight":2103,"stock_available":6,"stock_location":"EX 2","production_time":0,"sensors":["sensor_A"],"stock_location_id":"supply_2","lat":36.945,"long":-76.313056}
+{"NSN":"69477515","type":"Pump - Fuel","width":906,"height":1239,"weight":17106,"stock_available":4,"stock_location":"EX 3","production_time":3,"sensors":["sensor_B","sensor_A"],"stock_location_id":"supply_3","lat":21.3647,"long":-157.9498}
